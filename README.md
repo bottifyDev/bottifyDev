@@ -18,8 +18,8 @@ _Я делаю ботов для телеграма, интернет-серви
 
 #### Направления 
 
-#### [bottifyLab](https://github.com/bottifyLab) | [Github Pages Site](https://bottifyLab.github.io)
+#### [bottifyLab](https://github.com/bottifyLab) | [Github Pages Site](https://lab.bottify.ru)
 _Проекты в разработке, эксперименты и тестирование библиотек/фреймворков_
 
-#### [bottifyProd](https://github.com/bottifyProd) | [Github Pages Site](https://bottifyProd.github.io)
+#### [bottifyProd](https://github.com/bottifyProd) | [Github Pages Site](https://prod.bottify.ru)
 _Готовые проекты, выложеные на продажу, либо используемые в продакшне_
