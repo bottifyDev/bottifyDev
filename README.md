@@ -1,4 +1,4 @@
-![Cover](/cover.png?raw=true "Cover title")  
+![Cover](/cover.jpg?raw=true "Cover title")  
 
 ### 👋 Привет, я @bottifyDev
 
