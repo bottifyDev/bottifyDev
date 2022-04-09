@@ -8,12 +8,11 @@ _Я делаю ботов для телеграма, интернет-серви
 - 🐍 Python3 (requests, flask...) 
 - 🟢 NodeJS (vue, nuxt, nest...)
 - 🌱 MongoDB 
----
 
 #### Ссылки на ресурсы
-- [💻 Github page ](https://bottify.ru ) - промо сайт на gh pages
-- [⚒️ Проект](https://github.com/users/bottifyDev/projects/5) - github проект
-- [🧱 Gists ](https://gist.github.com/bottifyDev) - полезные кусочки 
+- [💻](https://bottify.ru ) - Сайт на gh pages
+- [⚒️](https://github.com/users/bottifyDev/projects/5) - Github проект
+- [🧱](https://gist.github.com/bottifyDev) - Полезные кусочки 
 ---
 
 #### Направления 
