@@ -2,6 +2,9 @@
 
 _Я делаю боты для телеграма, сервисы и сайты_
 
+
+https://gist.github.com/bottifyDev
+
 https://bottifyDev.github.io
 
 ----
