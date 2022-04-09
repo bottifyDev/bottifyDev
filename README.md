@@ -2,8 +2,6 @@
 
 ![Cover](/cover.jpg?raw=true "Cover title")  
 
-
-
 _Я делаю боты для телеграма, сервисы и сайты_
 
 
