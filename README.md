@@ -7,7 +7,7 @@ https://gist.github.com/bottifyDev
 
 https://bottifyDev.github.io
 
-![Cover](/cover.jpg?raw=true "Cover title")  
+---
 
 ### bottifyLab | [Github Profile](https://github.com/bottifyLab)
 `Экспериментальные проекты`
