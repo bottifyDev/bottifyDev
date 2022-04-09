@@ -5,8 +5,11 @@
 - https://bottifyDev.github.io
 
 ### bottifyLab
-- https://github.com/bottifyLab
-- https://bottifyLab.github.io
+
+### [Github Profile](https://github.com/bottifyLab)
+
+[Github Pages Site https://bottifyLab.github.io](https://github.com/bottifyLab)
+
 
 ### bottifyProd
 - https://github.com/bottifyProd
