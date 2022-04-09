@@ -5,7 +5,9 @@
 - https://bottifyDev.github.io
 
 ### bottifyLab
+- https://github.com/bottifyLab
 - https://bottifyLab.github.io
 
 ### bottifyProd
+- https://github.com/bottifyProd
 - https://bottifyProd.github.io
