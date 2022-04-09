@@ -2,10 +2,9 @@
 
 _Я делаю боты для телеграма, сервисы и сайты_
 
+[🧱 Gists ](https://gist.github.com/bottifyDev)
 
-https://gist.github.com/bottifyDev
-
-https://bottify.ru
+[💻 Landing ](https://bottify.ru ) 
 
 ---
 
