@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Добро пожаловать! — bottifyDev</title>
+  <title>{% block title %}Welcome{% endblock %} — bottifyDev</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">  
   
@@ -13,7 +13,7 @@
   <meta property="og:url" content="">
   <meta property="og:image" content="">
  
-  <link rel="stylesheet" href="static/style.css">
+  <link rel="stylesheet" href="{{ '/static/style.css'|url }}">
   
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
   
@@ -44,44 +44,22 @@
 </nav>
 <nav class="navbar is-warning is-fixed-bottom" role="navigation">
   <div class="navbar-brand">
-       
-  <a href="./" class="navbar-item is-expanded is-block has-text-centered">
+       {% for href, title in [
+          ['/', 'Главная'],
+          ['/projects', 'Проекты'],
+          ['/about', 'Инфа']
+        ] %}
+  <a href="{{ href|url }}" class="navbar-item is-expanded is-block has-text-centered">
       <i class="fa fa-user"></i>
-      <p class="is-size-7">Главная</p>
+      <p class="is-size-7">{{ title }}</p>
     </a>
-    
-  <a href="projects/" class="navbar-item is-expanded is-block has-text-centered">
-      <i class="fa fa-user"></i>
-      <p class="is-size-7">Проекты</p>
-    </a>
-    
-  <a href="about/" class="navbar-item is-expanded is-block has-text-centered">
-      <i class="fa fa-user"></i>
-      <p class="is-size-7">Инфа</p>
-    </a>
-    
+    {% endfor %}
   </div>
 </nav>
 
  
 
-   
-  <section class="hero is-small is-warning">
-  <div class="hero-body">
-    <p class="title">
-        Добро пожаловать!
-    </p>
-    <p class="subtitle">
-        Или посторонним вход воспрещен
-    </p>
-  </div>
-</section> 
-<section class="section">
-    <p>Такие дела</p>
-
-</section>
-
-
+   {% block body %} {% endblock %}
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
