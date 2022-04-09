@@ -1,5 +1,7 @@
 ### 👋 Привет, я @bottifyDev
 
+_Я делаю боты для телеграма, сервисы и сайты_
+
 https://bottifyDev.github.io
 
 ### bottifyLab | [Github Profile](https://github.com/bottifyLab)
