@@ -1,11 +1,11 @@
-👋 Привет, я @bottifyDev
+### 👋 Привет, я @bottifyDev
 
 👀 Мое хобби и одновременно работа - разработка ботов, сервисов и иногда сайтов
 
 - https://bottifyDev.github.io
 
-# bottifyLab
+### bottifyLab
 - https://bottifyLab.github.io
 
-# bottifyProd
+### bottifyProd
 - https://bottifyProd.github.io
