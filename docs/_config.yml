@@ -2,4 +2,4 @@ title: bottify LAB
 description: Проекты в разработке и эксперименты
 show_downloads: false
 
-theme: minimal
+theme: jekyll-theme-time-machine
