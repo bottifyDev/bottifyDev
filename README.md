@@ -4,8 +4,8 @@
 
 ### bottifyLab | [Github Profile](https://github.com/bottifyLab)
 `Экспериментальные проекты`
-[Промо сайт](https://github.com/bottifyLab)
+<a href="https://github.com/bottifyLab" target="_blank">Промо сайт</a>
 
 ### bottifyProd | [Github Profile](https://github.com/bottifyProd)
 `Проекты на продажу`
-<a href="#" target="_blank">Промо сайт</a>
+<a href="https://github.com/bottifyProd" target="_blank">Промо сайт</a>
