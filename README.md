@@ -1,6 +1,6 @@
 ### 👋 Привет, я @bottifyDev
 
-- https://bottifyDev.github.io
+https://bottifyDev.github.io
 
 ### bottifyLab | [Github Profile](https://github.com/bottifyLab)
 `Экспериментальные проекты`
