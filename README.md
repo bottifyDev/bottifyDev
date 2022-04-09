@@ -4,13 +4,11 @@
 
 - https://bottifyDev.github.io
 
-### bottifyLab
+### bottifyLab | [Github Profile](https://github.com/bottifyLab)
+`Экспериментальные проекты`
+[Промо сайт](https://github.com/bottifyLab)
 
-### [Github Profile](https://github.com/bottifyLab)
+### bottifyProd | [Github Profile](https://github.com/bottifyProd)
+`Проекты на продажу`
+[Промо сайт](https://github.com/bottifyProd)
 
-[Github Pages Site https://bottifyLab.github.io](https://github.com/bottifyLab)
-
-
-### bottifyProd
-- https://github.com/bottifyProd
-- https://bottifyProd.github.io
