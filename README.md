@@ -7,6 +7,8 @@ https://gist.github.com/bottifyDev
 
 https://bottifyDev.github.io
 
+https://bottify.ru
+
 ---
 
 ### bottifyLab | [Github Profile](https://github.com/bottifyLab)
