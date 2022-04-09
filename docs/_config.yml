@@ -28,4 +28,4 @@ header_pages:
   - preview.md
 
 # controls how big the shell and font looks
-font-size: small # options: [small] or [large]
+font-size: large # options: [small] or [large]
