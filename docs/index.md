@@ -9,12 +9,6 @@ _Я делаю ботов для телеграма, интернет-серви
 - 🟢 NodeJS (vue, nuxt, nest...)
 - 🌱 MongoDB 
 
-#### Ссылки на ресурсы
-- [💻](https://bottify.ru ) - Сайт на gh pages
-- [⚒️](https://github.com/users/bottifyDev/projects/5) - Github проект
-- [🧱](https://gist.github.com/bottifyDev) - Полезные кусочки 
----
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
